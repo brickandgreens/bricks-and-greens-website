@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: brickandgreens/brick-and-greens-website # Path to your Github repository
+  repo: brickandgreens/bricks-and-greens-website # Path to your Github repository
   branch: master # Branch to update (master by default)
   site_domain: https://cook-orders-85873.netlify.com
 
